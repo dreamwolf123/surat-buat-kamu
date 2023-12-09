@@ -1,0 +1,13 @@
+#love-icon {
+    position: absolute;
+    top: 50%;
+    left: 48%;
+    width: 0%;
+    height: 15px;
+    margin-top: -7.5px;
+    margin-left: -7.5;
+    color: #ff69b4;
+    font-size: 20px;
+    text-align: center;
+    line-height: 15px;
+}
